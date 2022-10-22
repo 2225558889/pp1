@@ -1,0 +1,7 @@
+def read_number():
+    b=int(input("num."))
+    return b
+a=read_number()
+c=read_number()
+
+print(f"sum of numbers is", a+c)

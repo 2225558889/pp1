@@ -1,0 +1,5 @@
+from 10 import *
+
+a=10.read_number()
+c=10.read_number()
+print("sum of your numbers is", a+c)
